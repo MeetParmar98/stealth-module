@@ -1,1 +1,0 @@
-# Browser fingerprinting module

@@ -132,27 +132,6 @@ stealth-module/
 │   │   └── behavioral_models.py
 │   └── self_healing/
 │       └── evasion_tactics.py
-│
-├── extractors/               # Data extraction utilities
-│   ├── html_parser.py
-│   ├── json_extractor.py
-│   └── schema_validator.py
-│
-├── storage/                  # Data persistence
-│   ├── database.py
-│   ├── cache.py
-│   └── export.py
-│
-├── examples/                 # Usage examples
-│   ├── basic_scraping.py
-│   ├── agentic_healing.py
-│   ├── browser_automation.py
-│   └── distributed_scraping.py
-│
-└── tests/                    # Test suite
-    ├── test_scraper.py
-    ├── test_stealth.py
-    └── test_agent.py
 ```
 
 ---
